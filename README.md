@@ -58,16 +58,6 @@ I work across the full stack — from protocol-level integrations to user-facing
 
 ---
 
-### 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andriisaiak&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriisaiak&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Get in Touch
-
-📧 [andrii@genpaid.io](mailto:andrii@genpaid.io)  
 🌐 [LinkedIn](https://linkedin.com/in/andriisaiak)
 
 ---
