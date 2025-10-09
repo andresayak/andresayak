@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Andrii Saiak
+# Hi there, I'm Andrii Saiak
 
 I'm a **software engineer** specializing in **blockchain systems, backend architecture, and infrastructure automation**.  
 My work focuses on building **secure, scalable, and event-driven** applications for modern distributed environments.
 
 ---
 
-### 🧠 Professional Summary
+### Professional Summary
 
 I have deep experience in designing and implementing **multi-service architectures** that integrate **cryptography, blockchain logic, and cloud-native infrastructure**.  
 My goal is to create systems that are **resilient, observable, and verifiably secure** — from key management to transaction execution.
@@ -14,28 +14,28 @@ I work across the full stack — from protocol-level integrations to user-facing
 
 ---
 
-### ⚙️ Core Competencies
+### Core Competencies
 
-#### 🧩 Backend Engineering
+#### Backend Engineering
 - Node.js / TypeScript (NestJS, Express, Fastify)
 - PostgreSQL, Redis, and message brokers (RabbitMQ, Kafka)
 - Modular monorepo architectures (NX, Lerna)
 - Data validation, schema evolution, and API design
 
-#### 🔐 Blockchain & Cryptography
+#### Blockchain & Cryptography
 - EVM and Solana ecosystem development
-- HD wallet derivation (BIP-32 / BIP-44)
+- HD wallet derivation
 - Transaction orchestration and broadcast systems
 - MPC / TSS, threshold-ECDSA / EdDSA, HSM integration
 - Secure signing workflows and non-custodial key handling
 
-#### ☁️ Infrastructure & DevOps
+#### Infrastructure & DevOps
 - Docker, Kubernetes, Helm, and Terraform
 - CI/CD pipelines with GitHub Actions and self-hosted runners
 - Environment automation, secret management, and observability
 - Prometheus, Grafana, Loki, and distributed tracing setups
 
-#### 💡 Frontend & Client Integration
+#### Frontend & Client Integration
 - React / Next.js with TypeScript
 - Secure client-side cryptography (WebCrypto, WebAuthn)
 - PWAs and Chrome extensions
@@ -43,7 +43,7 @@ I work across the full stack — from protocol-level integrations to user-facing
 
 ---
 
-### 🧰 Tools & Ecosystem
+### Tools & Ecosystem
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -54,11 +54,10 @@ I work across the full stack — from protocol-level integrations to user-facing
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-🌐 [LinkedIn](https://linkedin.com/in/andriisaiak)
+🌐 [LinkedIn](https://www.linkedin.com/in/andriisaiak/)
 
 ---
 
