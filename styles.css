@@ -49,8 +49,8 @@ body {
 }
 
 .avatar {
-    width: 96px;
-    height: 96px;
+    width: 250px;
+    height: 250px;
     border-radius: 24px;
     background: rgba(255, 255, 255, 0.12);
     display: grid;
@@ -60,6 +60,8 @@ body {
     letter-spacing: 0.08em;
     text-transform: uppercase;
     margin-bottom: 12px;
+    background: url(https://avatars.githubusercontent.com/u/4008339?v=4);
+    background-size: contain;
 }
 
 .name {
