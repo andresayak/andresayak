@@ -178,12 +178,13 @@ article h3 {
 
 .experience .meta {
     gap: 4px;
-    text-align: right;
+    text-align: left;
 }
 
 .experience .meta-role {
     color: #1f2335;
     font-weight: 700;
+    display: block;
 }
 
 .experience .meta-period {
